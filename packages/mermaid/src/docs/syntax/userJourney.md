@@ -6,7 +6,7 @@ Mermaid can render user journey diagrams:
 
 ```mermaid-example
 journey
-    title My working day
+    title OAuth
     section Go to work
       Make tea: 5: Me
       Go upstairs: 3: Me
